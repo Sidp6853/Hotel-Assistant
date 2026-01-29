@@ -1,0 +1,40 @@
+{
+  "policies": [
+    {
+      "id": "late_checkin",
+      "title": "Late Check-in Policy",
+      "content": "We accept check-ins 24/7. For arrivals after midnight, please call +91-XXX-XXXX to inform our night manager. Your room will be held regardless of arrival time.",
+      "category": "check-in"
+    },
+    {
+      "id": "parking_fees",
+      "title": "Parking Policy",
+      "content": "Valet parking is available at ₹500 per day. Self-parking is ₹300 per day. This fee is mentioned during booking and on our website footer.",
+      "category": "billing"
+    },
+    {
+      "id": "housekeeping_protocol",
+      "title": "Housekeeping Policy",
+      "content": "Housekeeping operates 9 AM - 6 PM. Staff must knock three times and wait 30 seconds before entering. 'Do Not Disturb' signs are always respected.",
+      "category": "privacy"
+    },
+    {
+      "id": "room_upgrade",
+      "title": "Complaint Resolution - Room Upgrade Policy",
+      "content": "For high-severity complaints, managers are authorized to offer complimentary upgrades or 20% discount on next stay.",
+      "category": "compensation"
+    },
+    {
+      "id": "smart_tv_support",
+      "title": "Smart TV Policy",
+      "content": "All rooms have Netflix-enabled smart TVs. Guests can log into their personal accounts. For technical issues, call ext. 555 for immediate IT support.",
+      "category": "amenities"
+    },
+    {
+      "id": "ac_maintenance",
+      "title": "AC Maintenance Policy",
+      "content": "AC issues must be resolved within 30 minutes. If not fixable, guest receives immediate room change or 50% refund for that night.",
+      "category": "maintenance"
+    }
+  ]
+}

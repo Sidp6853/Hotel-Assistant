@@ -1,0 +1,11 @@
+{
+  "guest_name": "Sid",
+  "room_number": "33",
+  "contact_info": "333",
+  "complaint_text": "AC not working",
+  "error": "'shared_memory'",
+  "workflow_failed": true,
+  "analysis": {},
+  "actions": {},
+  "response": {}
+}

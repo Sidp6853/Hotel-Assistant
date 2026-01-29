@@ -1,0 +1,90 @@
+{
+  "guest_name": "Sid",
+  "room_number": "3",
+  "contact_info": "2",
+  "complaint_text": "The washroom is too dirty",
+  "analysis": {
+    "severity_level": "low",
+    "category": "cleanliness",
+    "sentiment_score": -0.3,
+    "escalation_required": false,
+    "key_issues": [
+      "dirty washroom"
+    ],
+    "summary_reasoning": "The guest is mildly negative, expressing a slight disappointment with the cleanliness of their room"
+  },
+  "actions": {
+    "internal_actions": [
+      {
+        "action": "Acknowledge guest complaint via phone call, apologize for the inconvenience, and provide a clear timeline for resolving the issue.",
+        "responsible": "Front Desk Team",
+        "priority": "high",
+        "timeline": "Within 15 minutes"
+      },
+      {
+        "action": "Send a follow-up email to Sid with a detailed explanation of the actions being taken, including a revised timeline and any additional information that may be relevant.",
+        "responsible": "Front Desk Team",
+        "priority": "medium",
+        "timeline": "Within 30 minutes"
+      },
+      {
+        "action": "Ensure the washroom is thoroughly cleaned and disinfected by the housekeeping team, with a focus on maintaining high standards of cleanliness.",
+        "responsible": "Housekeeping Department",
+        "priority": "medium",
+        "timeline": "Within 1 hour"
+      }
+    ],
+    "assigned_department": "Front Desk Team & Housekeeping Department",
+    "estimated_resolution_time": "Within 2 hours",
+    "compensation_recommended": null,
+    "guest_response_tone": "apologetic and empathetic",
+    "response_focus": [
+      "Immediate action being taken",
+      "Timeline commitment",
+      "Compensation offer"
+    ]
+  },
+  "response": {},
+  "severity_level": "low",
+  "category": "cleanliness",
+  "sentiment_score": -0.3,
+  "escalation_required": false,
+  "key_issues": [
+    "dirty washroom"
+  ],
+  "summary_reasoning": "The guest is mildly negative, expressing a slight disappointment with the cleanliness of their room",
+  "internal_actions": [
+    {
+      "action": "Acknowledge guest complaint via phone call, apologize for the inconvenience, and provide a clear timeline for resolving the issue.",
+      "responsible": "Front Desk Team",
+      "priority": "high",
+      "timeline": "Within 15 minutes"
+    },
+    {
+      "action": "Send a follow-up email to Sid with a detailed explanation of the actions being taken, including a revised timeline and any additional information that may be relevant.",
+      "responsible": "Front Desk Team",
+      "priority": "medium",
+      "timeline": "Within 30 minutes"
+    },
+    {
+      "action": "Ensure the washroom is thoroughly cleaned and disinfected by the housekeeping team, with a focus on maintaining high standards of cleanliness.",
+      "responsible": "Housekeeping Department",
+      "priority": "medium",
+      "timeline": "Within 1 hour"
+    }
+  ],
+  "assigned_department": "Front Desk Team & Housekeeping Department",
+  "estimated_resolution_time": "Within 2 hours",
+  "compensation_recommended": null,
+  "guest_response_tone": "apologetic and empathetic",
+  "response_focus": [
+    "Immediate action being taken",
+    "Timeline commitment",
+    "Compensation offer"
+  ],
+  "guest_response": null,
+  "response_type": null,
+  "stored_successfully": false,
+  "notification_sent": false,
+  "processed_at": "2026-01-29T22:35:08.295030"
+}

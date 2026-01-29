@@ -1,0 +1,79 @@
+{
+  "guest_name": "Sid",
+  "room_number": "343",
+  "contact_info": "1234567892",
+  "complaint_text": "TV remote not working",
+  "analysis": {
+    "severity_level": "low",
+    "category": "general",
+    "sentiment_score": -0.3,
+    "escalation_required": false,
+    "key_issues": [
+      "TV remote not working"
+    ],
+    "summary_reasoning": "Guest is mildly disappointed, but the issue is easily resolvable"
+  },
+  "actions": {
+    "internal_actions": [
+      {
+        "action": "Acknowledge guest complaint via phone call within 15 minutes, apologize for the inconvenience caused, and provide a clear explanation of the issue.",
+        "responsible": "Front Desk Team",
+        "priority": "high",
+        "timeline": "Within 15 minutes"
+      },
+      {
+        "action": "Notify IT department (ext. 555) to assist with fixing the TV remote issue within 30 minutes.",
+        "responsible": "IT Department",
+        "priority": "medium",
+        "timeline": "Within 30 minutes"
+      }
+    ],
+    "assigned_department": "Front Desk and IT Departments",
+    "estimated_resolution_time": "1 hour",
+    "compensation_recommended": null,
+    "guest_response_tone": "apologetic",
+    "response_focus": [
+      "Immediate action being taken",
+      "Timeline commitment"
+    ]
+  },
+  "response": {
+    "guest_response": "Dear Sid,\n\nI am writing to offer my sincerest apologies for the inconvenience you experienced with your TV remote not working in our room, Room 343. I understand how frustrating this must have been and I want to assure you that we take such issues seriously.\n\nWe are taking immediate action to resolve this issue. Our IT department is currently investigating the matter and will be replacing the faulty remote control as soon as possible. In the meantime, we will provide you with an alternative remote control from our spare stock.\n\nI would like to inform you that we have scheduled a maintenance window for tonight between 8 PM and 10 PM to ensure that all rooms are checked and any issues are addressed. Our team will be working diligently to resolve this issue within the allotted timeframe of one hour.\n\nPlease accept my apologies again for the inconvenience caused. If you have any further concerns or questions, please do not hesitate to reach out to us. We value your feedback and appreciate your patience as we work to resolve this matter.\n\nSincerely,\n[Your Name]\nFront Desk and IT Departments",
+    "response_type": "complaint"
+  },
+  "severity_level": "low",
+  "category": "general",
+  "sentiment_score": -0.3,
+  "escalation_required": false,
+  "key_issues": [
+    "TV remote not working"
+  ],
+  "summary_reasoning": "Guest is mildly disappointed, but the issue is easily resolvable",
+  "internal_actions": [
+    {
+      "action": "Acknowledge guest complaint via phone call within 15 minutes, apologize for the inconvenience caused, and provide a clear explanation of the issue.",
+      "responsible": "Front Desk Team",
+      "priority": "high",
+      "timeline": "Within 15 minutes"
+    },
+    {
+      "action": "Notify IT department (ext. 555) to assist with fixing the TV remote issue within 30 minutes.",
+      "responsible": "IT Department",
+      "priority": "medium",
+      "timeline": "Within 30 minutes"
+    }
+  ],
+  "assigned_department": "Front Desk and IT Departments",
+  "estimated_resolution_time": "1 hour",
+  "compensation_recommended": null,
+  "guest_response_tone": "apologetic",
+  "response_focus": [
+    "Immediate action being taken",
+    "Timeline commitment"
+  ],
+  "guest_response": "Dear Sid,\n\nI am writing to offer my sincerest apologies for the inconvenience you experienced with your TV remote not working in our room, Room 343. I understand how frustrating this must have been and I want to assure you that we take such issues seriously.\n\nWe are taking immediate action to resolve this issue. Our IT department is currently investigating the matter and will be replacing the faulty remote control as soon as possible. In the meantime, we will provide you with an alternative remote control from our spare stock.\n\nI would like to inform you that we have scheduled a maintenance window for tonight between 8 PM and 10 PM to ensure that all rooms are checked and any issues are addressed. Our team will be working diligently to resolve this issue within the allotted timeframe of one hour.\n\nPlease accept my apologies again for the inconvenience caused. If you have any further concerns or questions, please do not hesitate to reach out to us. We value your feedback and appreciate your patience as we work to resolve this matter.\n\nSincerely,\n[Your Name]\nFront Desk and IT Departments",
+  "response_type": "complaint",
+  "stored_successfully": false,
+  "notification_sent": false,
+  "processed_at": "2026-01-29T23:10:58.482643"
+}

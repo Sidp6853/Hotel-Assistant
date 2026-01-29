@@ -1,0 +1,77 @@
+{
+  "guest_name": "Sid",
+  "room_number": "23",
+  "contact_info": "123446789000",
+  "complaint_text": "The experience was really nice",
+  "analysis": {
+    "severity_level": "low",
+    "category": "general",
+    "sentiment_score": 0.7,
+    "escalation_required": false,
+    "key_issues": [],
+    "summary_reasoning": "The guest's comment is neutral and lacks specific details, indicating a mild disappointment or slight inconvenience."
+  },
+  "actions": {
+    "internal_actions": [
+      {
+        "action": "Acknowledge guest complaint via phone call or email within 15 minutes, expressing empathy and apologizing for the inconvenience.",
+        "responsible": "Front Desk Team",
+        "priority": "high",
+        "timeline": "Within 15 minutes"
+      },
+      {
+        "action": "Review guest feedback and analyze the issue (if any) to identify root causes and potential solutions within 30 minutes.",
+        "responsible": "Operations Manager",
+        "priority": "medium",
+        "timeline": "Within 30 minutes"
+      }
+    ],
+    "assigned_department": "Front Desk Team, Operations Manager",
+    "estimated_resolution_time": "Within 2 hours",
+    "compensation_recommended": null,
+    "guest_response_tone": "apologetic",
+    "response_focus": [
+      "Express gratitude",
+      "Acknowledge staff",
+      "Encourage return visit"
+    ]
+  },
+  "response": {
+    "guest_response": "Dear Sid,\n\nI am writing to express my sincerest apologies for the experience you had in our establishment. We are thrilled to hear that your stay was \"really nice\" and we appreciate the time you took to share your feedback with us.\n\nAt [Hotel Name], we strive to provide exceptional service and accommodations to all our guests. Although we fell short of meeting your expectations, we take this as an opportunity to learn and improve for future guests.\n\nI want to assure you that we are taking immediate action to address the matter. Our Front Desk Team will review our protocols to ensure that every guest receives a warm welcome and personalized attention. Additionally, we will conduct a thorough review of our operations to prevent similar situations from arising in the future.\n\nWe appreciate your feedback and value your business. We are committed to providing an exceptional experience for all our guests, and we hope you will give us another opportunity to serve you better.\n\nThank you for your understanding, and please do not hesitate to contact me directly if you have any further concerns or questions.\n\nSincerely,\n[Your Name]\nOperations Manager",
+    "response_type": "complaint"
+  },
+  "severity_level": "low",
+  "category": "general",
+  "sentiment_score": 0.7,
+  "escalation_required": false,
+  "key_issues": [],
+  "summary_reasoning": "The guest's comment is neutral and lacks specific details, indicating a mild disappointment or slight inconvenience.",
+  "internal_actions": [
+    {
+      "action": "Acknowledge guest complaint via phone call or email within 15 minutes, expressing empathy and apologizing for the inconvenience.",
+      "responsible": "Front Desk Team",
+      "priority": "high",
+      "timeline": "Within 15 minutes"
+    },
+    {
+      "action": "Review guest feedback and analyze the issue (if any) to identify root causes and potential solutions within 30 minutes.",
+      "responsible": "Operations Manager",
+      "priority": "medium",
+      "timeline": "Within 30 minutes"
+    }
+  ],
+  "assigned_department": "Front Desk Team, Operations Manager",
+  "estimated_resolution_time": "Within 2 hours",
+  "compensation_recommended": null,
+  "guest_response_tone": "apologetic",
+  "response_focus": [
+    "Express gratitude",
+    "Acknowledge staff",
+    "Encourage return visit"
+  ],
+  "guest_response": "Dear Sid,\n\nI am writing to express my sincerest apologies for the experience you had in our establishment. We are thrilled to hear that your stay was \"really nice\" and we appreciate the time you took to share your feedback with us.\n\nAt [Hotel Name], we strive to provide exceptional service and accommodations to all our guests. Although we fell short of meeting your expectations, we take this as an opportunity to learn and improve for future guests.\n\nI want to assure you that we are taking immediate action to address the matter. Our Front Desk Team will review our protocols to ensure that every guest receives a warm welcome and personalized attention. Additionally, we will conduct a thorough review of our operations to prevent similar situations from arising in the future.\n\nWe appreciate your feedback and value your business. We are committed to providing an exceptional experience for all our guests, and we hope you will give us another opportunity to serve you better.\n\nThank you for your understanding, and please do not hesitate to contact me directly if you have any further concerns or questions.\n\nSincerely,\n[Your Name]\nOperations Manager",
+  "response_type": "complaint",
+  "stored_successfully": false,
+  "notification_sent": false,
+  "processed_at": "2026-01-29T23:15:50.913732"
+}

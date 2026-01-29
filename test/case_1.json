@@ -1,0 +1,51 @@
+{
+  "complaint_id": "5e89c76b-7b3d-4088-b324-5784f8b02cb8",
+  "guest_name": "Rahul Mehta",
+  "room_number": "312",
+  "contact_info": "rahul.mehta@email.com",
+  "complaint_text": "The air conditioner in my room stopped working late at night. I called the front desk twice but no one came to fix it. It was extremely uncomfortable and I couldn\u2019t sleep properly.",
+  "analysis": {
+    "severity_level": "high",
+    "category": "brief category",
+    "sentiment_score": -1.0,
+    "escalation_required": true,
+    "key_issues": [
+      "air conditioner stopped working"
+    ],
+    "summary_reasoning": "The air conditioner in my room stopped working late at night, and I couldn't sleep properly."
+  },
+  "actions": {
+    "internal_actions": [
+      {
+        "action": "Call maintenance team immediately to fix the air conditioner.",
+        "responsible": "Facilities Manager",
+        "priority": "high"
+      }
+    ],
+    "assigned_department": "Facilities Management",
+    "estimated_resolution_time": "2 hours"
+  },
+  "response": {
+    "guest_response": "Dear Rahul Mehta,\n\nI am writing to offer my sincerest apologies for the inconvenience you experienced during your stay with us. I can only imagine how uncomfortable it must have been to have the air conditioner in your room stop working, especially at night.\n\nI want to assure you that we take situations like this very seriously and are truly sorry that our hotel failed to meet your expectations. I understand that a good night's sleep is essential, and not being able to get one due to an issue with the air conditioning must have been frustrating for you.\n\nPlease be assured that we are taking immediate action to rectify the situation. Our facilities management team has been notified, and they will be sending someone to your room immediately to fix the air conditioner. You can expect a resolution within the next 2 hours.\n\nOnce again, I apologize for the discomfort and inconvenience caused. If there's anything else we can do to make up for this, please don't hesitate to let us know. Your comfort and satisfaction are our top priority, and I want to ensure that you have an exceptional stay with us moving forward.\n\nThank you for bringing this to my attention, Rahul. I hope to see you enjoying a comfortable room soon.\n\nBest regards,\n[Your Name]\nGuest Relations Manager"
+  },
+  "stored_successfully": true,
+  "notification_sent": true,
+  "severity_level": "high",
+  "category": "brief category",
+  "sentiment_score": -1.0,
+  "escalation_required": true,
+  "key_issues": [
+    "air conditioner stopped working"
+  ],
+  "summary_reasoning": "The air conditioner in my room stopped working late at night, and I couldn't sleep properly.",
+  "internal_actions": [
+    {
+      "action": "Call maintenance team immediately to fix the air conditioner.",
+      "responsible": "Facilities Manager",
+      "priority": "high"
+    }
+  ],
+  "assigned_department": "Facilities Management",
+  "estimated_resolution_time": "2 hours",
+  "guest_response": "Dear Rahul Mehta,\n\nI am writing to offer my sincerest apologies for the inconvenience you experienced during your stay with us. I can only imagine how uncomfortable it must have been to have the air conditioner in your room stop working, especially at night.\n\nI want to assure you that we take situations like this very seriously and are truly sorry that our hotel failed to meet your expectations. I understand that a good night's sleep is essential, and not being able to get one due to an issue with the air conditioning must have been frustrating for you.\n\nPlease be assured that we are taking immediate action to rectify the situation. Our facilities management team has been notified, and they will be sending someone to your room immediately to fix the air conditioner. You can expect a resolution within the next 2 hours.\n\nOnce again, I apologize for the discomfort and inconvenience caused. If there's anything else we can do to make up for this, please don't hesitate to let us know. Your comfort and satisfaction are our top priority, and I want to ensure that you have an exceptional stay with us moving forward.\n\nThank you for bringing this to my attention, Rahul. I hope to see you enjoying a comfortable room soon.\n\nBest regards,\n[Your Name]\nGuest Relations Manager"
+}

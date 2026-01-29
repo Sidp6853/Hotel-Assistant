@@ -1,0 +1,47 @@
+{
+  "complaint_id": "5288c0f2-7450-49ef-b6bf-a1eb7621819b",
+  "guest_name": "Neha Sharma",
+  "room_number": "508",
+  "contact_info": "neha.sharma@email.com",
+  "complaint_text": "I had a wonderful stay. The check-in process was quick, the staff was very polite, and the room was clean throughout my stay. Special thanks to the housekeeping team.",
+  "analysis": {
+    "severity_level": "low",
+    "category": "brief category",
+    "sentiment_score": 1.0,
+    "escalation_required": false,
+    "key_issues": [],
+    "summary_reasoning": "one sentence"
+  },
+  "actions": {
+    "internal_actions": [
+      {
+        "action": "Conduct a thorough review of the current process to identify areas for improvement.",
+        "responsible": "Project Manager",
+        "priority": "low"
+      }
+    ],
+    "assigned_department": "IT Department",
+    "estimated_resolution_time": "2 weeks"
+  },
+  "response": {
+    "guest_response": "Dear Neha Sharma,\n\nI am writing to express my sincerest apologies for not receiving your feedback regarding your recent stay in our hotel. I want to start by saying thank you for taking the time to share your wonderful experience with us. It's truly appreciated and we're thrilled to hear that our staff, particularly the housekeeping team, exceeded your expectations.\n\nI can only imagine how disappointing it must be to not receive a response from us after such a positive stay. Please know that we take full responsibility for this oversight and are taking immediate action to rectify the situation.\n\nWe have initiated a thorough review of our current process to identify areas where we can improve our communication with guests like you. Our IT department is working diligently to enhance our feedback mechanisms, ensuring that all guest interactions are thoroughly documented and responded to in a timely manner.\n\nI want to assure you that we will be taking concrete steps to prevent such incidents in the future. We aim to respond to every guest's feedback within two weeks from the date of receipt. I would like to personally ensure that your feedback is addressed and acted upon promptly.\n\nOnce again, thank you for bringing this to our attention. If you have any further concerns or questions, please don't hesitate to reach out to me directly.\n\nWarm regards,\n[Your Name]\nGuest Relations Manager"
+  },
+  "stored_successfully": true,
+  "notification_sent": false,
+  "severity_level": "low",
+  "category": "brief category",
+  "sentiment_score": 1.0,
+  "escalation_required": false,
+  "key_issues": [],
+  "summary_reasoning": "one sentence",
+  "internal_actions": [
+    {
+      "action": "Conduct a thorough review of the current process to identify areas for improvement.",
+      "responsible": "Project Manager",
+      "priority": "low"
+    }
+  ],
+  "assigned_department": "IT Department",
+  "estimated_resolution_time": "2 weeks",
+  "guest_response": "Dear Neha Sharma,\n\nI am writing to express my sincerest apologies for not receiving your feedback regarding your recent stay in our hotel. I want to start by saying thank you for taking the time to share your wonderful experience with us. It's truly appreciated and we're thrilled to hear that our staff, particularly the housekeeping team, exceeded your expectations.\n\nI can only imagine how disappointing it must be to not receive a response from us after such a positive stay. Please know that we take full responsibility for this oversight and are taking immediate action to rectify the situation.\n\nWe have initiated a thorough review of our current process to identify areas where we can improve our communication with guests like you. Our IT department is working diligently to enhance our feedback mechanisms, ensuring that all guest interactions are thoroughly documented and responded to in a timely manner.\n\nI want to assure you that we will be taking concrete steps to prevent such incidents in the future. We aim to respond to every guest's feedback within two weeks from the date of receipt. I would like to personally ensure that your feedback is addressed and acted upon promptly.\n\nOnce again, thank you for bringing this to our attention. If you have any further concerns or questions, please don't hesitate to reach out to me directly.\n\nWarm regards,\n[Your Name]\nGuest Relations Manager"
+}

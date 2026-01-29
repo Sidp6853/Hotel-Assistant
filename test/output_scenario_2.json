@@ -1,0 +1,71 @@
+{
+  "complaint_id": "6eb98976-061b-4d54-8d84-7cf897066f11",
+  "guest_name": "Michael Chen",
+  "room_number": "208",
+  "contact_info": "m.chen@business.com",
+  "complaint_text": "I checked in 3 hours ago and STILL haven't received my luggage \n            from the bell desk. I've called FOUR times and keep getting told \"it's coming soon\". \n            I have important business meetings in 2 hours and need my clothes and presentation \n            materials. This level of service is completely unacceptable and unprofessional.",
+  "analysis": {
+    "severity_level": "high",
+    "category": "service",
+    "sentiment_score": -1.0,
+    "escalation_required": true,
+    "key_issues": [
+      "delayed luggage delivery"
+    ],
+    "summary_reasoning": "Unacceptable service due to delayed luggage delivery and unprofessional staff response"
+  },
+  "actions": {
+    "internal_actions": [
+      {
+        "action": "Notify Front Desk staff to expedite luggage delivery and arrange for alternative accommodations if necessary.",
+        "responsible": "Front Desk Manager",
+        "priority": "immediate"
+      },
+      {
+        "action": "Contact Housekeeping team to investigate the cause of delayed luggage delivery and implement corrective measures.",
+        "responsible": "Housekeeping Manager",
+        "priority": "high"
+      },
+      {
+        "action": "Escalate issue to management for further review and potential compensation for affected guests.",
+        "responsible": "Assistant General Manager",
+        "priority": "immediate"
+      }
+    ],
+    "assigned_department": "Front Desk",
+    "estimated_resolution_time": "1 hour"
+  },
+  "response": {
+    "guest_response": "Dear Michael,\n\nI am writing to offer my sincerest apologies for the unacceptable experience you have had with your luggage delivery at our hotel. I can only imagine how frustrating it must be to wait for an extended period of time, especially when you have important business meetings scheduled.\n\nPlease know that we take full responsibility for this mistake and are truly sorry for any inconvenience or stress it has caused you. Our team is committed to providing exceptional service, and clearly, we fell short of that standard in your case.\n\nI want to assure you that we are taking immediate action to rectify the situation. Our front desk staff have been notified to expedite the delivery of your luggage, and if necessary, alternative accommodations will be arranged for you. We are also investigating the cause of the delay with our housekeeping team to ensure it does not happen again in the future.\n\nI want to assure you that we will do everything possible to make things right. You can expect a resolution within the next hour, and I will personally follow up on this matter to ensure your luggage is delivered promptly. Once again, I apologize for the inconvenience and appreciate your patience and understanding.\n\nSincerely,\n[Your Name]\nFront Desk Manager"
+  },
+  "stored_successfully": true,
+  "notification_sent": true,
+  "severity_level": "high",
+  "category": "service",
+  "sentiment_score": -1.0,
+  "escalation_required": true,
+  "key_issues": [
+    "delayed luggage delivery"
+  ],
+  "summary_reasoning": "Unacceptable service due to delayed luggage delivery and unprofessional staff response",
+  "internal_actions": [
+    {
+      "action": "Notify Front Desk staff to expedite luggage delivery and arrange for alternative accommodations if necessary.",
+      "responsible": "Front Desk Manager",
+      "priority": "immediate"
+    },
+    {
+      "action": "Contact Housekeeping team to investigate the cause of delayed luggage delivery and implement corrective measures.",
+      "responsible": "Housekeeping Manager",
+      "priority": "high"
+    },
+    {
+      "action": "Escalate issue to management for further review and potential compensation for affected guests.",
+      "responsible": "Assistant General Manager",
+      "priority": "immediate"
+    }
+  ],
+  "assigned_department": "Front Desk",
+  "estimated_resolution_time": "1 hour",
+  "guest_response": "Dear Michael,\n\nI am writing to offer my sincerest apologies for the unacceptable experience you have had with your luggage delivery at our hotel. I can only imagine how frustrating it must be to wait for an extended period of time, especially when you have important business meetings scheduled.\n\nPlease know that we take full responsibility for this mistake and are truly sorry for any inconvenience or stress it has caused you. Our team is committed to providing exceptional service, and clearly, we fell short of that standard in your case.\n\nI want to assure you that we are taking immediate action to rectify the situation. Our front desk staff have been notified to expedite the delivery of your luggage, and if necessary, alternative accommodations will be arranged for you. We are also investigating the cause of the delay with our housekeeping team to ensure it does not happen again in the future.\n\nI want to assure you that we will do everything possible to make things right. You can expect a resolution within the next hour, and I will personally follow up on this matter to ensure your luggage is delivered promptly. Once again, I apologize for the inconvenience and appreciate your patience and understanding.\n\nSincerely,\n[Your Name]\nFront Desk Manager"
+}

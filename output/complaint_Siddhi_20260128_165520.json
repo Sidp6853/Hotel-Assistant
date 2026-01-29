@@ -1,0 +1,76 @@
+{
+  "guest_name": "Siddhi",
+  "room_number": "234",
+  "contact_info": "123456789",
+  "complaint_text": "I want extra bedding",
+  "analysis": {
+    "severity_level": "low",
+    "category": "general",
+    "sentiment_score": -0.1,
+    "escalation_required": false,
+    "key_issues": [
+      "request for extra bedding"
+    ],
+    "summary_reasoning": "The guest's request is a minor, factual inquiry with no emotional tone."
+  },
+  "actions": {
+    "internal_actions": [
+      {
+        "action": "Acknowledge Siddhi's request for extra bedding with a sincere apology and assure her that it will be taken care of promptly.",
+        "responsible": "Front Desk Team",
+        "priority": "high",
+        "timeline": "Within 15 minutes"
+      },
+      {
+        "action": "Verify availability of additional bedding in room 234 and arrange for its delivery within the next 30 minutes.",
+        "responsible": "Housekeeping Department",
+        "priority": "medium",
+        "timeline": "Within 1 hour"
+      }
+    ],
+    "assigned_department": "Front Desk Team, Housekeeping Department",
+    "estimated_resolution_time": "2 hours",
+    "compensation_recommended": null,
+    "guest_response_tone": "apologetic and empathetic",
+    "response_focus": [
+      "Immediate action being taken",
+      "Timeline commitment"
+    ]
+  },
+  "response": {},
+  "severity_level": "low",
+  "category": "general",
+  "sentiment_score": -0.1,
+  "escalation_required": false,
+  "key_issues": [
+    "request for extra bedding"
+  ],
+  "summary_reasoning": "The guest's request is a minor, factual inquiry with no emotional tone.",
+  "internal_actions": [
+    {
+      "action": "Acknowledge Siddhi's request for extra bedding with a sincere apology and assure her that it will be taken care of promptly.",
+      "responsible": "Front Desk Team",
+      "priority": "high",
+      "timeline": "Within 15 minutes"
+    },
+    {
+      "action": "Verify availability of additional bedding in room 234 and arrange for its delivery within the next 30 minutes.",
+      "responsible": "Housekeeping Department",
+      "priority": "medium",
+      "timeline": "Within 1 hour"
+    }
+  ],
+  "assigned_department": "Front Desk Team, Housekeeping Department",
+  "estimated_resolution_time": "2 hours",
+  "compensation_recommended": null,
+  "guest_response_tone": "apologetic and empathetic",
+  "response_focus": [
+    "Immediate action being taken",
+    "Timeline commitment"
+  ],
+  "guest_response": null,
+  "response_type": null,
+  "stored_successfully": false,
+  "notification_sent": false,
+  "processed_at": "2026-01-28T16:55:20.216745"
+}

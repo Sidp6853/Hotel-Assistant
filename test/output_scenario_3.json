@@ -1,0 +1,55 @@
+{
+  "complaint_id": "bd9d3550-e9e7-4601-9224-54361ccdafc1",
+  "guest_name": "Emily Rodriguez",
+  "room_number": "103",
+  "contact_info": "emily.r@gmail.com",
+  "complaint_text": "The room has several issues that need attention - the TV remote \n            doesn't work at all, there's a strange musty smell coming from the AC vent, and \n            the shower drain is very slow. It's not terrible but definitely not what I expected \n            from your hotel. Please send someone to fix these issues today.",
+  "analysis": {
+    "severity_level": "medium",
+    "category": "room cleanliness",
+    "sentiment_score": -0.3,
+    "escalation_required": true,
+    "key_issues": [
+      "TV remote not working",
+      "musty smell from AC vent",
+      "slow shower drain"
+    ],
+    "summary_reasoning": "Room has several issues that need attention, including TV remote not working and musty smell, with slow shower drain also present."
+  },
+  "actions": {
+    "internal_actions": [
+      {
+        "action": "Review complaint and contact guest",
+        "responsible": "Front Desk Manager",
+        "priority": "high"
+      }
+    ],
+    "assigned_department": "Front Desk",
+    "estimated_resolution_time": "2 hours"
+  },
+  "response": {
+    "guest_response": "Dear Emily,\n\nI am writing to offer my sincerest apologies for the disappointing experience you've had in your room, 103. I can only imagine how frustrating it must be to encounter issues with the TV remote, musty smell from the AC vent, and slow shower drain.\n\nPlease know that we take all guest concerns seriously and are committed to making things right. Our team is already reviewing your complaint and will dispatch a maintenance technician to address these issues as soon as possible. We understand that it's not ideal for you to be staying in a room with these problems, and I want to assure you that we're taking immediate action.\n\nThe technician should arrive within the next 2 hours to assess and resolve the issues. In the meantime, if there's anything else I can do to make your stay more comfortable, please don't hesitate to let me know. We value your feedback and appreciate the opportunity to show you the level of service we strive for.\n\nThank you for bringing this to our attention, Emily. I hope you'll give us another chance to demonstrate our commitment to excellence.\n\nSincerely,\n[Your Name]\nFront Desk Manager"
+  },
+  "stored_successfully": true,
+  "notification_sent": true,
+  "severity_level": "medium",
+  "category": "room cleanliness",
+  "sentiment_score": -0.3,
+  "escalation_required": true,
+  "key_issues": [
+    "TV remote not working",
+    "musty smell from AC vent",
+    "slow shower drain"
+  ],
+  "summary_reasoning": "Room has several issues that need attention, including TV remote not working and musty smell, with slow shower drain also present.",
+  "internal_actions": [
+    {
+      "action": "Review complaint and contact guest",
+      "responsible": "Front Desk Manager",
+      "priority": "high"
+    }
+  ],
+  "assigned_department": "Front Desk",
+  "estimated_resolution_time": "2 hours",
+  "guest_response": "Dear Emily,\n\nI am writing to offer my sincerest apologies for the disappointing experience you've had in your room, 103. I can only imagine how frustrating it must be to encounter issues with the TV remote, musty smell from the AC vent, and slow shower drain.\n\nPlease know that we take all guest concerns seriously and are committed to making things right. Our team is already reviewing your complaint and will dispatch a maintenance technician to address these issues as soon as possible. We understand that it's not ideal for you to be staying in a room with these problems, and I want to assure you that we're taking immediate action.\n\nThe technician should arrive within the next 2 hours to assess and resolve the issues. In the meantime, if there's anything else I can do to make your stay more comfortable, please don't hesitate to let me know. We value your feedback and appreciate the opportunity to show you the level of service we strive for.\n\nThank you for bringing this to our attention, Emily. I hope you'll give us another chance to demonstrate our commitment to excellence.\n\nSincerely,\n[Your Name]\nFront Desk Manager"
+}

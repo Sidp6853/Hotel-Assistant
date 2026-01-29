@@ -1,0 +1,73 @@
+{
+  "complaint_id": "71f7f335-6225-4e64-9cd9-318785a7e468",
+  "guest_name": "Sarah Johnson",
+  "room_number": "512",
+  "contact_info": "sarah.j@email.com",
+  "complaint_text": "This is urgent! I found a cockroach in my room (#512) and there \n            are several dead insects near the bathroom. My daughter has severe allergies and \n            we cannot stay in this room. We need immediate relocation and I'm considering \n            contacting health authorities. This is a serious health and safety violation.",
+  "analysis": {
+    "severity_level": "critical",
+    "category": "room cleanliness",
+    "sentiment_score": -1.0,
+    "escalation_required": true,
+    "key_issues": [
+      "cockroach in room",
+      "dead insects near bathroom"
+    ],
+    "summary_reasoning": "Guest found a cockroach and dead insects, posing health and safety risks to their daughter with severe allergies"
+  },
+  "actions": {
+    "internal_actions": [
+      {
+        "action": "Call pest control service to thoroughly clean and disinfect the room immediately.",
+        "responsible": "Housekeeping Manager",
+        "priority": "immediate"
+      },
+      {
+        "action": "Send a team of housekeepers to thoroughly clean and sanitize the bathroom, including any areas with dead insects.",
+        "responsible": "Housekeeping Team Lead",
+        "priority": "high"
+      },
+      {
+        "action": "Notify management and provide a complimentary upgrade to a different room for the guest's safety and comfort.",
+        "responsible": "Front Desk Manager",
+        "priority": "immediate"
+      }
+    ],
+    "assigned_department": "Housekeeping",
+    "estimated_resolution_time": "1 hour"
+  },
+  "response": {
+    "guest_response": "Dear Sarah,\n\nI am writing to offer my sincerest apologies for the unacceptable experience you and your family have encountered in our hotel. I can only imagine how distressing it must be to find a cockroach in your room, especially given the severity of your daughter's allergies.\n\nPlease know that we take situations like this extremely seriously and are committed to providing a safe and comfortable environment for all our guests. I want to assure you that we are taking immediate action to rectify the situation.\n\nOur housekeeping team will be dispatched to thoroughly clean and disinfect your room, including any areas with dead insects, within the next hour. Additionally, we will send a separate team to sanitize the bathroom and ensure it meets our high standards of cleanliness.\n\nTo further alleviate your concerns, I am pleased to inform you that we are offering a complimentary upgrade to a different room for your family's safety and comfort. We understand that this is not a suitable solution, but we want to provide an alternative that meets our hotel's standards.\n\nI would like to request the opportunity to speak with you personally within the next hour to discuss further arrangements and ensure that you are satisfied with the measures we are taking. Please do not hesitate to contact me directly if there is anything else I can do to make things right.\n\nOnce again, I apologize for this unacceptable experience, and I appreciate your patience and understanding as we work to resolve this issue.\n\nSincerely,\n[Your Name]\nGuest Relations Manager"
+  },
+  "stored_successfully": true,
+  "notification_sent": true,
+  "severity_level": "critical",
+  "category": "room cleanliness",
+  "sentiment_score": -1.0,
+  "escalation_required": true,
+  "key_issues": [
+    "cockroach in room",
+    "dead insects near bathroom"
+  ],
+  "summary_reasoning": "Guest found a cockroach and dead insects, posing health and safety risks to their daughter with severe allergies",
+  "internal_actions": [
+    {
+      "action": "Call pest control service to thoroughly clean and disinfect the room immediately.",
+      "responsible": "Housekeeping Manager",
+      "priority": "immediate"
+    },
+    {
+      "action": "Send a team of housekeepers to thoroughly clean and sanitize the bathroom, including any areas with dead insects.",
+      "responsible": "Housekeeping Team Lead",
+      "priority": "high"
+    },
+    {
+      "action": "Notify management and provide a complimentary upgrade to a different room for the guest's safety and comfort.",
+      "responsible": "Front Desk Manager",
+      "priority": "immediate"
+    }
+  ],
+  "assigned_department": "Housekeeping",
+  "estimated_resolution_time": "1 hour",
+  "guest_response": "Dear Sarah,\n\nI am writing to offer my sincerest apologies for the unacceptable experience you and your family have encountered in our hotel. I can only imagine how distressing it must be to find a cockroach in your room, especially given the severity of your daughter's allergies.\n\nPlease know that we take situations like this extremely seriously and are committed to providing a safe and comfortable environment for all our guests. I want to assure you that we are taking immediate action to rectify the situation.\n\nOur housekeeping team will be dispatched to thoroughly clean and disinfect your room, including any areas with dead insects, within the next hour. Additionally, we will send a separate team to sanitize the bathroom and ensure it meets our high standards of cleanliness.\n\nTo further alleviate your concerns, I am pleased to inform you that we are offering a complimentary upgrade to a different room for your family's safety and comfort. We understand that this is not a suitable solution, but we want to provide an alternative that meets our hotel's standards.\n\nI would like to request the opportunity to speak with you personally within the next hour to discuss further arrangements and ensure that you are satisfied with the measures we are taking. Please do not hesitate to contact me directly if there is anything else I can do to make things right.\n\nOnce again, I apologize for this unacceptable experience, and I appreciate your patience and understanding as we work to resolve this issue.\n\nSincerely,\n[Your Name]\nGuest Relations Manager"
+}

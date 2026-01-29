@@ -1,0 +1,53 @@
+{
+  "complaint_id": "914f5be0-88b1-4d28-9629-6f031751f983",
+  "guest_name": "David Park",
+  "room_number": "425",
+  "contact_info": "d.park@email.com",
+  "complaint_text": "Hi there! I just checked in and noticed there are no coffee pods \n            in the room, and there's only one pillow on the bed (I prefer two). Also, it would \n            be great to have some extra towels. Not urgent but would appreciate if someone \n            could bring these items when convenient. Thank you!",
+  "analysis": {
+    "severity_level": "low",
+    "category": "room amenities",
+    "sentiment_score": -0.2,
+    "escalation_required": false,
+    "key_issues": [
+      "coffee pods",
+      "number of pillows"
+    ],
+    "summary_reasoning": "minor inconveniences with room amenities"
+  },
+  "actions": {
+    "internal_actions": [
+      {
+        "action": "Review complaint and contact guest",
+        "responsible": "Front Desk Manager",
+        "priority": "high"
+      }
+    ],
+    "assigned_department": "Front Desk",
+    "estimated_resolution_time": "2 hours"
+  },
+  "response": {
+    "guest_response": "Dear David,\n\nI am writing to offer my sincerest apologies for the inconvenience you've experienced in your room, 425. I can imagine how frustrating it must be to arrive at your hotel without the amenities you typically expect.\n\nPlease know that we take all guest concerns seriously and are truly sorry that our standard did not meet your expectations. I want to assure you that we're taking immediate action to rectify the situation. Our team is already working on bringing extra towels to your room, which should be delivered within the next two hours.\n\nIn addition, I've personally checked with our housekeeping department to ensure that an additional pillow is added to your bed as soon as possible. We'll also make sure to replenish our coffee pod supply in all rooms, including yours, for your convenience.\n\nI want to thank you for bringing this to my attention and for giving us the opportunity to make things right. Your comfort and satisfaction are of utmost importance to us, and I'm committed to ensuring that you have a wonderful stay with us. If there's anything else I can do to make your stay more enjoyable, please don't hesitate to reach out.\n\nThank you again for your patience and understanding.\n\nBest regards,\n[Your Name]\nFront Desk Manager"
+  },
+  "stored_successfully": true,
+  "notification_sent": false,
+  "severity_level": "low",
+  "category": "room amenities",
+  "sentiment_score": -0.2,
+  "escalation_required": false,
+  "key_issues": [
+    "coffee pods",
+    "number of pillows"
+  ],
+  "summary_reasoning": "minor inconveniences with room amenities",
+  "internal_actions": [
+    {
+      "action": "Review complaint and contact guest",
+      "responsible": "Front Desk Manager",
+      "priority": "high"
+    }
+  ],
+  "assigned_department": "Front Desk",
+  "estimated_resolution_time": "2 hours",
+  "guest_response": "Dear David,\n\nI am writing to offer my sincerest apologies for the inconvenience you've experienced in your room, 425. I can imagine how frustrating it must be to arrive at your hotel without the amenities you typically expect.\n\nPlease know that we take all guest concerns seriously and are truly sorry that our standard did not meet your expectations. I want to assure you that we're taking immediate action to rectify the situation. Our team is already working on bringing extra towels to your room, which should be delivered within the next two hours.\n\nIn addition, I've personally checked with our housekeeping department to ensure that an additional pillow is added to your bed as soon as possible. We'll also make sure to replenish our coffee pod supply in all rooms, including yours, for your convenience.\n\nI want to thank you for bringing this to my attention and for giving us the opportunity to make things right. Your comfort and satisfaction are of utmost importance to us, and I'm committed to ensuring that you have a wonderful stay with us. If there's anything else I can do to make your stay more enjoyable, please don't hesitate to reach out.\n\nThank you again for your patience and understanding.\n\nBest regards,\n[Your Name]\nFront Desk Manager"
+}
