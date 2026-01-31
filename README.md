@@ -1,4 +1,4 @@
-# 🏨 
+# 🏨 Hotel AI Assistant
 
 **AI-Powered Multi-Agent System for Automated Guest Complaint Handling**
 
