@@ -1,8 +1,8 @@
-# 🏨 Hotel Complaint Management System
+# 🏨 
 
 **AI-Powered Multi-Agent System for Automated Guest Complaint Handling**
 
-Built by **Siddhi Pandya** | Interview Task for **Doozy Robotics** | January 28, 2026
+Built by **Siddhi Pandya** |
 
 ---
 
@@ -430,16 +430,6 @@ shared_memory: Dict[str, Any]
 Reduce tokens in `config/settings.py`:
 ```python
 LLM_MAX_TOKENS = 256
-```
-
----
-
-## 📞 Contact
-
-**Siddhi Pandya**  
-Email: siddhip568@gmail.com  
-Phone: +91 9484454737
-
 ---
 
 ## 🎉 Quick Start
